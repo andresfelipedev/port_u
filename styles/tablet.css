@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#banner_text button{
+    margin: 2%;
+    width: 30vw;
+    height: 5vh;
+    color: rgb(216, 231, 231);
+    background-color: #0c7e25;
+    border-radius: 30px ;
+    border: none;
+}
